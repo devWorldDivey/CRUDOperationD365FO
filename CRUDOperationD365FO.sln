@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "CRUDOperationD365FO (USR) [AnandCRUDOperations]", "CRUDOperationD365FO\CRUDOperationD365FO.rnrproj", "{A681C0ED-5AAA-46AC-B3A7-2E8F4149D27A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A681C0ED-5AAA-46AC-B3A7-2E8F4149D27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A681C0ED-5AAA-46AC-B3A7-2E8F4149D27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA6AA60-DCD9-4BE7-83E3-1253B39AA814}
+	EndGlobalSection
+EndGlobal
